@@ -7,8 +7,8 @@ def suma_numeros(lista_numeros):
     return suma
 
 # Lista de números de ejemplo
-numeros = [1, 2, 3, 4, 5]
+numeros = [1, 2, 3, 4, 5,6,7,8]
 
 # Llamando a la función y mostrando el resultado
-resultado = suma_numeros(numeros)
+resultado = suma_numeros(numeros) #SUMa de numeros codigo
 print(f"La suma de los números es: {resultado}")
